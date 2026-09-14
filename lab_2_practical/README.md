@@ -1,6 +1,6 @@
 # Quiz 01
 
-This folder contains the implementation and tests for class activity we did on 7 SEP 2026.
+This folder contains the pratical session for Lab 2, implementation, and tests for class activity we did on 7 SEP 2026.
 
 ## Included Files
 - `solution_bank.py`: Solution implementation for the bank exercise.
