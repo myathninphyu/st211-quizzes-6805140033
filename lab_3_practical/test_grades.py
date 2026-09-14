@@ -5,7 +5,7 @@ def test_boundary_a_grade():
     assert letter_grade(79) == 'B' #just below boundary
 
 def test_boundary_pass_fail():
-    assert letter_grade(60) == 'F' #lowest pass
+    assert letter_grade(60) == 'C' #lowest pass
     assert letter_grade(59) == 'F' #just failed
 
 def test_minimum_valid():
